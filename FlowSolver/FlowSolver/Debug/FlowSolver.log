@@ -1,0 +1,7 @@
+﻿  FlowSolve.cpp
+e:\seafile\learning_data\junior_2\powersystemanalysis\research2\flowsolver\flowsolver\flowsolve.h(76): warning C4305: “初始化”: 从“double”到“float”截断
+e:\seafile\learning_data\junior_2\powersystemanalysis\research2\flowsolver\flowsolver\flowsolve.cpp(256): warning C4101: “i0”: 未引用的局部变量
+e:\seafile\learning_data\junior_2\powersystemanalysis\research2\flowsolver\flowsolver\flowsolve.cpp(674): warning C4305: “*=”: 从“double”到“float”截断
+e:\seafile\learning_data\junior_2\powersystemanalysis\research2\flowsolver\flowsolver\flowsolve.cpp(722): warning C4305: “/=”: 从“double”到“float”截断
+e:\seafile\learning_data\junior_2\powersystemanalysis\research2\flowsolver\flowsolver\flowsolve.cpp(929): warning C4101: “j”: 未引用的局部变量
+  FlowSolver.vcxproj -> E:\Seafile\Learning_Data\Junior_2\PowerSystemAnalysis\Research2\FlowSolver\Debug\FlowSolver.exe
